@@ -18,6 +18,10 @@
 ### Running any file on Windows: <br/>
 Follow `windows + Code::Blocks` instructions from: https://www.geeksforgeeks.org/getting-started-with-opengl/
 
+### Few Outputs: <br/>
+#### fractalTry2.cpp
+<img src="https://github.com/anandnkhl/Project_OpenGL/blob/master/fractalTry2.png" width="250" height="300" />
+
 Note: <br/>
 Few programs are in C, certain OpenGL feature might not work in it, convert to C++ if needed.<br/>
 For any query regarding this project contact at anandnikhil91@gmail.com
